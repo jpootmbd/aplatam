@@ -17,4 +17,4 @@ Tablas motor de base de datos Mysql (Ejecutar script database_aplatam)
 
 3.-La explicacion detallada del código ejecutado (archivo aplatam.pdf)
 
-4.-Para ver el diagrama entidad relacion abrir Modelo Entidad-Relación (ER).svg desde un explorador
+4.-Para ver el diagrama entidad relacion abrir Modelo_Entidad_Relación.svg desde un explorador

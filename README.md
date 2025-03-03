@@ -1,8 +1,7 @@
-####################################
+
 #Autor: Jesús Eduardo Poot Várguez #
 #Fecha creacion:01/03/2025         #
-#                                  #
-####################################
+
 
 Plan de implementación
 

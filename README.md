@@ -15,6 +15,8 @@ Tablas motor de base de datos Mysql (Ejecutar script database_aplatam)
 
 2.-Ejecutar script database_aplatam.sql (Conecta a api de noticias, carga la informacion en mysql).
 
+3.-Ejecutar script aplatam.py (Procesa los datos de API a mysql).
+
 3.-La explicacion detallada del código ejecutado (archivo aplatam.pdf)
 
 4.-Para ver el diagrama entidad relacion abrir Modelo_Entidad_Relación.svg desde un explorador

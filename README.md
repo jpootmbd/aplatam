@@ -13,7 +13,7 @@ MariaDB 10.4.32
 Python: ninguna, las librerias se contienen el la instalación
 Tablas motor de base de datos Mysql (Ejecutar script database_aplatam)
 
-2.-Ejecutar script aplatam.sql (Conecta a api de noticias, carga la informacion en mysql).
+2.-Ejecutar script database_aplatam.sql (Conecta a api de noticias, carga la informacion en mysql).
 
 3.-La explicacion detallada del código ejecutado (archivo aplatam.pdf)
 

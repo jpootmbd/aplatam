@@ -10,7 +10,7 @@ Python 3.12.7
 MariaDB 10.4.32
 
 1.-Instalacion de dependencias 
-Python: ninguna las librerias se contienen el la instalación
+Python: ninguna, las librerias se contienen el la instalación
 Tablas motor de base de datos Mysql (Ejecutar script database_aplatam)
 
 2.-Ejecutar script aplatam.sql (Conecta a api de noticias, carga la informacion en mysql).
